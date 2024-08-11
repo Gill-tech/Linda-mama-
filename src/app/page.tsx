@@ -29,7 +29,7 @@ export default function Home() {
         >
           <Textarea
             className="w-full text-lg"
-            placeholder="Say something"
+            placeholder="Sema Jambo"
             value={input}
             onChange={handleInputChange}
             onKeyDown={handleKeyDown}
